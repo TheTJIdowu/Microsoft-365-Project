@@ -41,13 +41,13 @@ Display of selection of user and execution of password reset:
 <h2>Offboarding User</h2>
 Termination of user from company via blocking, password, license & group removal as well a deleting user.
 
-Blocking user:
+<h1>Blocking user:</h1>
 
 
 <img width="677" height="443" alt="Block-User-1-Offboarding" src="https://github.com/user-attachments/assets/c5fe3e20-cae2-46f6-9954-8c0b3925e928" />
 <img width="651" height="667" alt="Block-User-2-Offboarding" src="https://github.com/user-attachments/assets/6d0ccce4-6d05-44db-a7b0-fa5201c0959f" />
 
-Resetting password:
+<h1>Resetting password:</h1>
 
 
 <img width="648" height="653" alt="Reset-Password-Offboarding-1" src="https://github.com/user-attachments/assets/deada285-df05-41c7-923d-59cad27c0898" />
