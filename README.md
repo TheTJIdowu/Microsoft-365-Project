@@ -7,7 +7,7 @@ Microsoft 365 Project displaying savvy pertaining to management of emails and us
 
 <h2>Operating Systems Used </h2>
 
-- Mac</b> (21H2)
+- Mac</b> 
 
 <h2>Ticket Lifecycle Stages</h2>
 
