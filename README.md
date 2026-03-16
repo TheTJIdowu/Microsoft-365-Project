@@ -9,11 +9,11 @@ Microsoft 365 Project displaying savvy pertaining to management of emails and us
 
 - Mac</b> 
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>Stages</h2>
 
 - Display Users
 - Create User Groups
 - Reset User Password
 - Offboarding
 
-<h2>Lifecycle Stages</h2>
+<h2>Stages</h2>
